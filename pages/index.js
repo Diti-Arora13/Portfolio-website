@@ -26,12 +26,12 @@ export default function Home() {
     <Flex justifyContent={"center"} marginTop={"46px"}>
         <Flex alignContent={"center"} flexDirection={"column"}>
 
-        <Text fontSize={{base:"20px", md:"28px"}} color={"white"} fontWeight={"bold"}>Hey I'm<span className='head'> Diti</span></Text>
+        <Text fontSize={{base:"20px", md:"28px"}} color={"white"} fontWeight={"bold"}>Hey I&apos;m<span className='head'> Diti</span></Text>
         
         <Flex marginTop={"24px"} p={"16px"} width={{base:"300px",md:"750px"}} backgroundColor={"#1F1F1F"} rounded={"7px"}>
           <Text color={"#B3B3B3"} fontWeight={"400"} fontSize={{base:"12px", md:"16px"}}>
-          I'm a 12 y/o ReactJs Developer and UI designer. I've been working with HTML, CSS, JavaScript, React and Tailwind from the past 2 years. I love to explore web dev and get better at it.
-          Currently I'm learning and trying to break into the web3 space.
+          I&apos;m a 12 y/o ReactJs Developer and UI designer. I&apos;ve been working with HTML, CSS, JavaScript, React and Tailwind from the past 2 years. I love to explore web dev and get better at it.
+          Currently I&apos;m learning and trying to break into the web3 space.
 
           <br/><br/>
           Connect with me on <span className='titles' style={{color:"white", opacity:"85"}}><a href="https://twitter.com/theditiarora">twitter</a></span> or <span className='titles' style={{color:"white", opacity:"85"}}><a href="https://github.com/Diti-Arora13">github</a>.</span>
