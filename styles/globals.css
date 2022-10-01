@@ -36,9 +36,10 @@ html{
 .para{
   text-decoration: none;
   opacity: 60%;
-  font-weight: 200;
+  font-weight: 300;
 }
 
 .project{
   margin-bottom: 30px;
+  font-weight: 600;
 }
