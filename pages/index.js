@@ -38,7 +38,7 @@ export default function Home() {
           </Text>
         </Flex>
 
-        <Flex marginTop={"36px"} fontSize={{base:"20px", md:"28px"}} fontWeight={"bold"} color={"white"}>kaam ki baat // proof of work✨</Flex>
+        <Flex marginTop={"36px"} fontSize={{base:"20px", md:"28px"}} fontWeight={"bold"} color={"white"}>proof of work✨</Flex>
         
         <Flex flexDirection={"column"} marginTop={"24px"} width={{base:"300px",md:"750px"}} color={"white"}>
         
