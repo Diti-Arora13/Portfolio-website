@@ -30,7 +30,7 @@ export default function Home() {
         
         <Flex marginTop={"24px"} p={"16px"} width={{base:"300px",md:"750px"}} backgroundColor={"#1F1F1F"} rounded={"7px"}>
           <Text color={"#B3B3B3"} fontWeight={"400"} fontSize={{base:"12px", md:"16px"}}>
-          I&apos;m a 12 y/o ReactJs Developer and UI designer. I&apos;ve been working with HTML, CSS, JavaScript, React and Tailwind from the past 2 years. I love to explore web dev and get better at it.
+          I&apos;m a 13 y/o ReactJs Developer and UI designer. I&apos;ve been working with HTML, CSS, JavaScript, React and Tailwind from the past 2 years. I love to explore web dev and get better at it.
           Currently I&apos;m learning and trying to break into the web3 space.
 
           <br/><br/>
