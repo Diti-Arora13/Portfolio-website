@@ -26,7 +26,7 @@ export default function Home() {
     <Flex justifyContent={"center"} marginTop={"46px"}>
         <Flex alignContent={"center"} flexDirection={"column"}>
 
-        <Text fontSize={{base:"20px", md:"28px"}} color={"white"} fontWeight={"bold"}>Hey I&apos;m<span className='head'> Diti</span></Text>
+        <Text fontSize={{base:"20px", md:"28px"}} color={"white"} fontWeight={"bold"}>Hey I&apos;m<span className='head'> Diti</span> 👀</Text>
         
         <Flex marginTop={"24px"} p={"16px"} width={{base:"300px",md:"750px"}} backgroundColor={"#1F1F1F"} rounded={"7px"}>
           <Text color={"#B3B3B3"} fontWeight={"400"} fontSize={{base:"12px", md:"16px"}}>
