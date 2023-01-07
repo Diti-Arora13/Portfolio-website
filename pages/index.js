@@ -53,23 +53,23 @@ export default function Home() {
         </Text>
 
         <Text className="project" fontSize={{base:"12px", md:"16px"}}>
-             <span className="titles"><a href='https://diti-arora13.github.io/Alpaca-Generator/'>Alpaca Generator</a> </span> → <span className='para'> 
+             <span className="titles"><a href='https://theditiarora.github.io/Alpaca-Generator/'>Alpaca Generator</a> </span> → <span className='para'> 
              Alpaca is a cartoon character. This app lets you customize one of your own, play with the styles, change the accessories and more.
              </span>
         </Text>
 
         <Text className="project" fontSize={{base:"12px", md:"16px"}}>
-             <span className="titles"><a href='https://diti-arora13.github.io/Twitter-login-page-clone/'>Twitter Clone</a> </span> → <span className='para'> 
+             <span className="titles"><a href='https://theditiarora.github.io/Twitter-login-page-clone/'>Twitter Clone</a> </span> → <span className='para'> 
              Twitter sign-up page clone. </span>
         </Text>
 
         <Text className="project" fontSize={{base:"12px", md:"16px"}}>
-             <span className="titles"><a href='http://diti-arora13.github.io/Gradient-Generator/'>Gradient Generator</a> </span> → <span className='para'> 
+             <span className="titles"><a href='http://theditiarora.github.io/Gradient-Generator/'>Gradient Generator</a> </span> → <span className='para'> 
              A tool that lets you generate CSS code of all sorts of linear gradients. </span>
         </Text>
 
         <Text className="project" fontSize={{base:"12px", md:"16px"}}>
-             <span className="titles"><a href='https://diti-arora13.github.io/JS-Calculator/'>Calculator</a> </span> → <span className='para'> 
+             <span className="titles"><a href='https://theditiarora.github.io/JS-Calculator/'>Calculator</a> </span> → <span className='para'> 
              A calculator app written in JavaScript.
               </span>
         </Text>
